@@ -1,0 +1,1 @@
+A:\UNIVERSITY\Placements\rust\learning_rust\first_chapter\first_cargo_program\target\debug\first_cargo_program.exe: A:\UNIVERSITY\Placements\rust\learning_rust\first_chapter\first_cargo_program\src\main.rs
